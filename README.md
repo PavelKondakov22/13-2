@@ -14,5 +14,9 @@
 1. Установите поддержку **LUKS**.
 2. Создайте небольшой раздел, например, 100 Мб.
 3. Зашифруйте созданный раздел с помощью LUKS.
-
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s4.png)
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s5.png)
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s6.png)
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s7.png)
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s8.png)
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
