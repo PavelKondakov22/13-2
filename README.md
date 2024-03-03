@@ -3,10 +3,10 @@
 
 1. Установите **eCryptfs**.
 2. Добавьте пользователя cryptouser.
-3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.  
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s1.png)  
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s2.png)
+![alt text](https://github.com/PavelKondakov22/13-2/blob/main/s3.png)  
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
 ### Задание 2
